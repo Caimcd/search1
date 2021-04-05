@@ -1,1 +1,14 @@
-
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <body style="color: blue; text-align: center;">
+        <title>Search</title>
+    </head>
+    <body>
+        <form action="https://www.google.com/imghp?hl=EN">
+                 <input type="text" name="q">
+                 <input type="submit" value="Google Image Search">
+                 </form> 
+    </body>
+</html>
+© 2021 GitHub, Inc.
